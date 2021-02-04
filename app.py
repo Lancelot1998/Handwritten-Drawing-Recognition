@@ -25,7 +25,6 @@ tfback._SYMBOLIC_SCOPE.value = True
 
 def _get_available_gpus():
     """Get a list of available gpu devices (formatted as strings).
-
     # Returns
         A list of available GPU devices.
     """
